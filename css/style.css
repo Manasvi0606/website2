@@ -112,11 +112,19 @@ a:hover {
     margin-left: 30px;
 }
 
+.coding:hover {
+    width: 34%;
+}
+
 .sketching {
     width: 32%;
     float: left;
     margin-right: 30px;
 
+}
+
+.sketching:hover {
+    width: 34%;
 }
 
 .skill-row {
